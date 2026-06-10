@@ -4524,5 +4524,235 @@ export const gpxSummaries: Record<string, GpxSummary> = {
         "maxLon": -123.108168
       }
     }
+  },
+  "vancouver-marathon-18364602479": {
+    "id": "vancouver-marathon-18364602479",
+    "name": "Vancouver Marathon",
+    "stats": {
+      "name": "Vancouver Marathon",
+      "distanceKm": 42.813,
+      "movingSec": 13984,
+      "elapsedSec": 14340,
+      "paceSecPerKm": 327,
+      "elevationM": 452,
+      "avgHr": 159,
+      "startTime": "2026-05-03T15:38:41.000Z",
+      "endTime": "2026-05-03T19:37:41.000Z",
+      "startLat": 49.243252,
+      "startLon": -123.109504,
+      "bbox": {
+        "minLat": 49.226152,
+        "maxLat": 49.314048,
+        "minLon": -123.2607,
+        "maxLon": -123.109504
+      }
+    }
+  },
+  "afternoon-run-18391236895": {
+    "id": "afternoon-run-18391236895",
+    "name": "Afternoon Run",
+    "stats": {
+      "name": "Afternoon Run",
+      "distanceKm": 2.769,
+      "movingSec": 1301,
+      "elapsedSec": 1399,
+      "paceSecPerKm": 470,
+      "elevationM": 80,
+      "avgHr": 132,
+      "startTime": "2026-05-05T21:05:30.000Z",
+      "endTime": "2026-05-05T21:28:49.000Z",
+      "startLat": 49.301299,
+      "startLon": -122.7468,
+      "bbox": {
+        "minLat": 49.29766,
+        "maxLat": 49.303038,
+        "minLon": -122.750362,
+        "maxLon": -122.734106
+      }
+    }
+  },
+  "lunch-run-18444210432": {
+    "id": "lunch-run-18444210432",
+    "name": "Lunch Run",
+    "stats": {
+      "name": "Lunch Run",
+      "distanceKm": 4.709,
+      "movingSec": 2142,
+      "elapsedSec": 3814,
+      "paceSecPerKm": 455,
+      "elevationM": 134,
+      "avgHr": 137,
+      "startTime": "2026-05-09T18:20:44.000Z",
+      "endTime": "2026-05-09T19:24:18.000Z",
+      "startLat": 49.063101,
+      "startLon": -120.828054,
+      "bbox": {
+        "minLat": 49.056705,
+        "maxLat": 49.065301,
+        "minLon": -120.83961,
+        "maxLon": -120.824229
+      }
+    }
+  },
+  "morning-run-18532839389": {
+    "id": "morning-run-18532839389",
+    "name": "Morning Run",
+    "stats": {
+      "name": "Morning Run",
+      "distanceKm": 6.185,
+      "movingSec": 2264,
+      "elapsedSec": 3239,
+      "paceSecPerKm": 366,
+      "elevationM": 42,
+      "avgHr": 148,
+      "startTime": "2026-05-16T16:32:22.000Z",
+      "endTime": "2026-05-16T17:26:21.000Z",
+      "startLat": 49.701871,
+      "startLon": -123.144165,
+      "bbox": {
+        "minLat": 49.68327,
+        "maxLat": 49.70213,
+        "minLon": -123.165933,
+        "maxLon": -123.144122
+      }
+    }
+  },
+  "afternoon-run-18576249897": {
+    "id": "afternoon-run-18576249897",
+    "name": "Afternoon Run",
+    "stats": {
+      "name": "Afternoon Run",
+      "distanceKm": 9.394,
+      "movingSec": 3505,
+      "elapsedSec": 3967,
+      "paceSecPerKm": 373,
+      "elevationM": 102,
+      "avgHr": 131,
+      "startTime": "2026-05-20T00:20:46.000Z",
+      "endTime": "2026-05-20T01:26:53.000Z",
+      "startLat": 49.299334,
+      "startLon": -122.755561,
+      "bbox": {
+        "minLat": 49.268944,
+        "maxLat": 49.299344,
+        "minLon": -122.791378,
+        "maxLon": -122.755323
+      }
+    }
+  },
+  "morning-run-18615816075": {
+    "id": "morning-run-18615816075",
+    "name": "Morning Run",
+    "stats": {
+      "name": "Morning Run",
+      "distanceKm": 0.285,
+      "movingSec": 105,
+      "elapsedSec": 107,
+      "paceSecPerKm": 368,
+      "elevationM": 3,
+      "avgHr": null,
+      "startTime": "2026-05-22T23:23:45.000Z",
+      "endTime": "2026-05-22T23:25:32.000Z",
+      "startLat": 35.687312,
+      "startLon": 139.761397,
+      "bbox": {
+        "minLat": 35.687312,
+        "maxLat": 35.689421,
+        "minLon": 139.760087,
+        "maxLon": 139.761397
+      }
+    }
+  },
+  "morning-run-18667903277": {
+    "id": "morning-run-18667903277",
+    "name": "Morning Run",
+    "stats": {
+      "name": "Morning Run",
+      "distanceKm": 13.226,
+      "movingSec": 5050,
+      "elapsedSec": 9175,
+      "paceSecPerKm": 382,
+      "elevationM": 151,
+      "avgHr": 136,
+      "startTime": "2026-05-26T20:27:10.000Z",
+      "endTime": "2026-05-26T23:00:05.000Z",
+      "startLat": 35.505943,
+      "startLon": 138.755873,
+      "bbox": {
+        "minLat": 35.503482,
+        "maxLat": 35.525759,
+        "minLon": 138.74552,
+        "maxLon": 138.774138
+      }
+    }
+  },
+  "lunch-run-18817992510": {
+    "id": "lunch-run-18817992510",
+    "name": "Lunch Run",
+    "stats": {
+      "name": "Lunch Run",
+      "distanceKm": 5.196,
+      "movingSec": 1873,
+      "elapsedSec": 2203,
+      "paceSecPerKm": 360,
+      "elevationM": 47,
+      "avgHr": 138,
+      "startTime": "2026-06-07T03:07:13.000Z",
+      "endTime": "2026-06-07T03:43:56.000Z",
+      "startLat": 37.554358,
+      "startLon": 126.895701,
+      "bbox": {
+        "minLat": 37.534955,
+        "maxLat": 37.554358,
+        "minLon": 126.895701,
+        "maxLon": 126.943113
+      }
+    }
+  },
+  "morning-run-18836398708": {
+    "id": "morning-run-18836398708",
+    "name": "Morning Run",
+    "stats": {
+      "name": "Morning Run",
+      "distanceKm": 5.239,
+      "movingSec": 1842,
+      "elapsedSec": 2158,
+      "paceSecPerKm": 352,
+      "elevationM": 162,
+      "avgHr": 145,
+      "startTime": "2026-06-08T12:27:13.000Z",
+      "endTime": "2026-06-08T13:03:11.000Z",
+      "startLat": 49.29937,
+      "startLon": -122.755727,
+      "bbox": {
+        "minLat": 49.2976,
+        "maxLat": 49.304832,
+        "minLon": -122.758555,
+        "maxLon": -122.732127
+      }
+    }
+  },
+  "night-run-18860162327": {
+    "id": "night-run-18860162327",
+    "name": "Night Run",
+    "stats": {
+      "name": "Night Run",
+      "distanceKm": 0.408,
+      "movingSec": 112,
+      "elapsedSec": 112,
+      "paceSecPerKm": 275,
+      "elevationM": 2,
+      "avgHr": 126,
+      "startTime": "2026-06-10T04:28:22.000Z",
+      "endTime": "2026-06-10T04:30:14.000Z",
+      "startLat": 49.289944,
+      "startLon": -122.785073,
+      "bbox": {
+        "minLat": 49.289671,
+        "maxLat": 49.291083,
+        "minLon": -122.785078,
+        "maxLon": -122.783859
+      }
+    }
   }
 };
